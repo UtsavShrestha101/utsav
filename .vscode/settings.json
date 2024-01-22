@@ -1,0 +1,41 @@
+{
+  "java.project.sourcePaths": [
+    "lib/features/auth/forgot_password/forgot_password_email"
+  ],
+  "cSpell.words": [
+    "audioplayers",
+    "bestie",
+    "Besties",
+    "bestiez",
+    "copywith",
+    "cupertino",
+    "DISLIKEPOST",
+    "dislikers",
+    "LIKEPOST",
+    "luker",
+    "Lukers",
+    "lurkings",
+    "ontap",
+    "PAIDFOLLOW",
+    "REMOVEDISLIKEPOST",
+    "REMOVELIKEPOST",
+    "REPORTPOST",
+    "REPORTUSER",
+    "resetpassword",
+    "RGBO",
+    "saro",
+    "setsubscription",
+    "signup",
+    "spinkit",
+    "TAGPOST",
+    "timeago",
+    "undislike",
+    "unfocus",
+    "UNFOLLOW",
+    "unfollowed",
+    "userprofile",
+    "Userverified",
+    "vsync"
+  ],
+  "java.configuration.updateBuildConfiguration": "automatic"
+}

@@ -1,0 +1,2 @@
+sealed class SpotifyPlaylistTrackEvent{}
+class FetchPlaylistTrackEvent extends SpotifyPlaylistTrackEvent{}

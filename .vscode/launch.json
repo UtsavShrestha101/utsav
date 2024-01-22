@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "saro (Dev)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_dev.dart",
+            "toolArgs": [
+                "--flavor",
+                "dev"
+            ]
+        },
+        {
+            "name": "saro (Stag)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_stag.dart",
+            "toolArgs": [
+                "--flavor",
+                "dev"
+            ]
+        },
+        {
+            "name": "Saro (Prod)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_prod.dart",
+            "toolArgs": [
+                "--flavor",
+                "prod"
+            ]
+        }
+    ]
+}
